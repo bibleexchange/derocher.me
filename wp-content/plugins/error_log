@@ -1,0 +1,2 @@
+[26-Sep-2015 07:37:48 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/luke1915/public_html/derocher.me/wp-content/plugins/hello.php on line 60
+[26-Sep-2015 07:37:48 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/luke1915/public_html/derocher.me/wp-content/plugins/hello.php on line 60

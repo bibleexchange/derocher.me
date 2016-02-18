@@ -1,0 +1,7 @@
+[27-Sep-2015 03:34:13 UTC] PHP Notice:  Undefined index: wp_version in /home/luke1915/public_html/derocher.me/wp-content/themes/twentyfifteen/functions.php on line 40
+[27-Sep-2015 03:34:13 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/luke1915/public_html/derocher.me/wp-content/themes/twentyfifteen/functions.php on line 41
+[27-Sep-2015 03:34:13 UTC] PHP Notice:  Undefined index: wp_version in /home/luke1915/public_html/derocher.me/wp-content/themes/twentyfifteen/functions.php on line 40
+[27-Sep-2015 03:34:13 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/luke1915/public_html/derocher.me/wp-content/themes/twentyfifteen/functions.php on line 41
+[27-Sep-2015 06:48:34 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/luke1915/public_html/derocher.me/wp-content/themes/twentyfifteen/404.php on line 10
+[27-Sep-2015 06:48:34 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/luke1915/public_html/derocher.me/wp-content/themes/twentyfifteen/404.php on line 10
+[19-Jan-2016 08:22:55 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/luke1915/public_html/derocher.me/wp-content/themes/twentyfifteen/404.php on line 10

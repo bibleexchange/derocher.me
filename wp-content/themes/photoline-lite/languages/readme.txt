@@ -1,0 +1,1 @@
+If you have prepared the translation of the theme into your native language, I will be glad to include this translation. Send to the address: post@dinevthemes.com

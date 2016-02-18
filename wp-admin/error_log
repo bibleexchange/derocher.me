@@ -1,0 +1,4 @@
+[22-Aug-2015 04:12:20 UTC] activation
+[22-Aug-2015 04:16:13 UTC] deactivation
+[23-Aug-2015 20:42:06 Africa/Abidjan] PHP Warning:  Creating default object from empty value in /home/luke1915/public_html/derocher.me/wp-content/themes/apex/inc/customizer.php on line 11
+[23-Aug-2015 20:42:06 Africa/Abidjan] PHP Warning:  Creating default object from empty value in /home/luke1915/public_html/derocher.me/wp-content/themes/apex/inc/customizer.php on line 12

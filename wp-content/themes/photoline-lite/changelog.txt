@@ -1,0 +1,22 @@
+== Photoline Lite WordPress Theme ==
+
+= 1.0.4 - 12.10.2015
+* Removed not used files
+
+= 1.0.3 - 12.10.2015
+* Removed page templates Page Mosaic Tiles and Page Square Tiles
+* Added option Customizer section Home Tagline
+* Added option to disable the lightbox images
+* Some small changes and improvements
+* Replacement screenshot (new size)
+
+= 1.0.2 - 9.07.2015
+* Removed unnecessary script
+* Esc home_url() in breadcrump func.
+
+= 1.0.1 - 25.06.2015
+* Removed unnecessary functions
+* Few fixes and minor changes
+
+= 1.0 - 19.06.2015
+* Initial release.

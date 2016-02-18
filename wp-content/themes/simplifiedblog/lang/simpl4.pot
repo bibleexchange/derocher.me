@@ -1,0 +1,353 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-23 01:09+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:19
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:23
+msgid "It looks like nothing was found over here. Maybe try searching?"
+msgstr ""
+
+#: archive.php:19
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:22
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:25
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:28
+msgid "Archives"
+msgstr ""
+
+#: archive.php:43 author.php:35 category.php:26 index.php:25 search.php:31
+#: tag.php:26
+msgid "&lt;&lt;"
+msgstr ""
+
+#: archive.php:44 author.php:36 category.php:27 index.php:26 search.php:32
+#: tag.php:27
+msgid "&gt;&gt;"
+msgstr ""
+
+#: archive.php:45 author.php:37 category.php:28 content.php:33 index.php:27
+#: search.php:33 tag.php:28
+msgid "Page"
+msgstr ""
+
+#: author.php:20
+#, php-format
+msgid "<i class=\"fa fa-user\"></i> %s"
+msgstr ""
+
+#: category.php:15
+#, php-format
+msgid "<i class=\"fa fa-folder-open-o\"></i> %s"
+msgstr ""
+
+#: comments.php:17
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:25 comments.php:43
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:26 comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr ""
+
+#: content-aside.php:10 content-image.php:17 content-page.php:21
+#: content-quote.php:12 content-status.php:11 content-video.php:26
+#: content.php:26
+msgid "<div class=\"more\">Read More &rarr;</div>"
+msgstr ""
+
+#: content-none.php:10
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:17
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:22
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:24 content.php:29
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:39 content-video.php:38 content.php:48
+msgid "Leave a comment"
+msgstr ""
+
+#: content-page.php:39 content-video.php:38 content.php:48
+msgid "1 Comment"
+msgstr ""
+
+#: content-page.php:39 content-video.php:38 content.php:48
+msgid "% Comments"
+msgstr ""
+
+#: content-page.php:40 content-video.php:39 content.php:49
+msgid "Edit"
+msgstr ""
+
+#: functions.php:6
+msgid "Main sidebar that appears on homepage and blog pages."
+msgstr ""
+
+#: functions.php:16
+msgid "Footer widget on homepage and category pages."
+msgstr ""
+
+#: functions.php:89
+msgid "Primary Menu"
+msgstr ""
+
+#: header.php:18
+msgid "Skip to content"
+msgstr ""
+
+#: search.php:18
+#, php-format
+msgid "<i class=\"fa fa-search\"></i> %s"
+msgstr ""
+
+#: tag.php:15
+#, php-format
+msgid "<i class=\"fa fa-tags\"></i> %s"
+msgstr ""
+
+#: bit/customizer.php:23
+msgid "Layout Options"
+msgstr ""
+
+#: bit/customizer.php:34
+msgid "Width of the site"
+msgstr ""
+
+#: bit/customizer.php:42
+msgid "Font Options"
+msgstr ""
+
+#: bit/customizer.php:49
+msgid "Meta Options"
+msgstr ""
+
+#: bit/customizer.php:57 bit/customizer.php:453
+msgid "Logo"
+msgstr ""
+
+#: bit/customizer.php:71
+msgid "Hide categories in post meta?"
+msgstr ""
+
+#: bit/customizer.php:73
+msgid "Hide categories"
+msgstr ""
+
+#: bit/customizer.php:89
+msgid "Hide date in post meta?"
+msgstr ""
+
+#: bit/customizer.php:91
+msgid "Hide date"
+msgstr ""
+
+#: bit/customizer.php:106
+msgid "Hide tags in post meta?"
+msgstr ""
+
+#: bit/customizer.php:108
+msgid "Hide tags"
+msgstr ""
+
+#: bit/customizer.php:123
+msgid "Hide the comment count in post meta?"
+msgstr ""
+
+#: bit/customizer.php:125
+msgid "Hide comment link"
+msgstr ""
+
+#: bit/customizer.php:140
+msgid "Hide the author in post meta?"
+msgstr ""
+
+#: bit/customizer.php:142
+msgid "Hide author"
+msgstr ""
+
+#: bit/customizer.php:157
+msgid "Blogging area Color"
+msgstr ""
+
+#: bit/customizer.php:173
+msgid "Text Color"
+msgstr ""
+
+#: bit/customizer.php:196
+msgid "Headings Color"
+msgstr ""
+
+#: bit/customizer.php:220
+msgid "Links Color"
+msgstr ""
+
+#: bit/customizer.php:238
+msgid "Hover Color"
+msgstr ""
+
+#: bit/customizer.php:240
+msgid "Does not show here, but updates"
+msgstr ""
+
+#: bit/customizer.php:255
+msgid "Misc Color"
+msgstr ""
+
+#: bit/customizer.php:257
+msgid "Post meta, menu items and some other interface elements use it."
+msgstr ""
+
+#: bit/customizer.php:273
+msgid "Blog layout"
+msgstr ""
+
+#: bit/customizer.php:279 bit/customizer.php:303 bit/customizer.php:327
+msgid "Left Sidebar"
+msgstr ""
+
+#: bit/customizer.php:280 bit/customizer.php:304 bit/customizer.php:328
+msgid "Full Width / No sidebar"
+msgstr ""
+
+#: bit/customizer.php:281 bit/customizer.php:305 bit/customizer.php:329
+msgid "Right Sidebar"
+msgstr ""
+
+#: bit/customizer.php:297
+msgid "Single post layout"
+msgstr ""
+
+#: bit/customizer.php:321
+msgid "Single page layout"
+msgstr ""
+
+#: bit/customizer.php:345
+msgid "Width"
+msgstr ""
+
+#: bit/customizer.php:348
+msgid ""
+"Choose site width. It changes how the site looks on wider screens. Fluid "
+"gives more real estate for your media."
+msgstr ""
+
+#: bit/customizer.php:351
+msgid "Fixed 980px"
+msgstr ""
+
+#: bit/customizer.php:352
+msgid "Fluid 980-1600px"
+msgstr ""
+
+#: bit/customizer.php:369
+msgid "Heading Font"
+msgstr ""
+
+#: bit/customizer.php:372
+msgid ""
+"Pick a font for all headings (some fonts are loaded through Google Fonts - "
+"not immediately visible - press F5 to see them"
+msgstr ""
+
+#: bit/customizer.php:401
+msgid "Body Font"
+msgstr ""
+
+#: bit/customizer.php:404
+msgid ""
+"Pick a font for body text (some fonts are loaded through Google Fonts - not "
+"immediately visible - press F5 to see them"
+msgstr ""
+
+#: bit/customizer.php:433
+msgid "Heading weight"
+msgstr ""
+
+#: bit/customizer.php:436
+msgid "Bold or normal headings?"
+msgstr ""
+
+#: bit/customizer.php:439
+msgid "Normal"
+msgstr ""
+
+#: bit/customizer.php:440
+msgid "Bold"
+msgstr ""
+
+#: bit/customizer.php:470
+msgid "Logo alignment"
+msgstr ""
+
+#: bit/customizer.php:473
+msgid "Where will the logo be?"
+msgstr ""
+
+#: bit/customizer.php:476
+msgid "Left"
+msgstr ""
+
+#: bit/customizer.php:477
+msgid "Center"
+msgstr ""
+
+#: bit/customizer.php:478
+msgid "Right"
+msgstr ""
+
+#: bit/customizer.php:495
+msgid "Footer Copyright"
+msgstr ""
