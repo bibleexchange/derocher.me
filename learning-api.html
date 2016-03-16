@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<head>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+</head>
+<html>
+
+	<script type="text/javascript">
+		/*var wpCall = new XMLHttpRequest();
+
+		wpCall.open("GET", "http://derocher.me/wp-json/wp/v2/posts", false);
+
+		wpCall.send();
+
+		var json = JSON.parse(wpCall);
+		console.log(json);*/
+
+		jQuery.get( "http://public-api.wordpress.com/rest/v1/sites/en.blog.wordpress.com/", function( response ) { 
+    // response contains site information
+		} );
+
+	</script>
+
+</html>
